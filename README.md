@@ -1,5 +1,6 @@
 # Web-dev-2021
-This is design for the GitHub Classroom auto grading assignment
+This is a group assignment. Complete all three test by replit. 
+
 ## test 1 HTML.
 1. In your html file add a button with inner text Change the background color.
 
